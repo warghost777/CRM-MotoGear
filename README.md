@@ -1,1 +1,1 @@
-# CRM MotoGear
+Este proyecto esta siendo desarrollado como parte de mi formación en un bootcamp para convertirme en Salesforce Administrator. El objetivo es demostrar mis conocimientos adquiridos en la plataforma Salesforce mediante la construcción de un CRM funcional y visualmente atractivo para una tienda ficticia de accesorios de motos.
