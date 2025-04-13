@@ -1,5 +1,7 @@
 borre todos los registros del objeto "Producto"
-creé el campo "Precio" en el objeto "Producto" y deje las configuraciones predeterminadas de creación por ahora 
+creé el campo "Precio" en el objeto "Producto" 
+long = 16 , deciamales = 2 , divisa PERU 
+deje las configuraciones predeterminadas de creación por ahora 
 
 
 
