@@ -1,6 +1,6 @@
-eliminé de la papelera todos los productos que venian de prueba 
-subí 10 productos de la familia "cascos" con los campos "Nombre", "codigo de producto", "Familia de productos" , "Precio", 
+eliminé de la papelera todos los registros del objeto "Productos" que venian de prueba 
+importe 10 productos de la familia "cascos" con los campos "Nombre", "codigo de producto", "Familia de productos" , "Precio", 
 desde la interfaz del usuario , oculté la visibilidad del campo "clase" que daba resultado "simple" en todos los productos por ser un dato irrelevante
 eliminé el componente "listas de precios" de tipo Listas relacionadas
 eliminé la ficha "Relacionados"
-active la nueva pagina de registro de productos para todas las orgs
+active la nueva pagina de registro de productos para todas las orgs por ahora 
