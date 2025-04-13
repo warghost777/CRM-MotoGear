@@ -4,3 +4,4 @@ desde la interfaz del usuario , oculté la visibilidad del campo "clase" que dab
 eliminé el componente "listas de precios" de tipo Listas relacionadas
 eliminé la ficha "Relacionados"
 active la nueva pagina de registro de productos para todas las orgs por ahora 
+eliminé el campo de tipo checbox "Active" (ahora lo reemplacé por "Cantidad disponible")
