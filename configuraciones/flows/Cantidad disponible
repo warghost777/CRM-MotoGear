@@ -1,3 +1,4 @@
 borré los valores que venian por defecto del campo "Product Interest" del objeto Leads y creé el valor "Cascos"
+crée el campo lookup "Producto relacionado",asociado al objeto "Productos" y deje la configuraciones por defecto
 
 
