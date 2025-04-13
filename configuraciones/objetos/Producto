@@ -1,5 +1,5 @@
 eliminé de la papelera todos los registros del objeto "Productos" que venian de prueba 
-importe 10 productos de la familia "cascos" con los campos "Nombre", "codigo de producto", "Familia de productos" , "Precio", 
+importe 10 productos de la familia "cascos" con los campos ("Nombre", "codigo de producto", "Familia de productos" , "Precio", "Checkbox ACTIVE") = API NAME =(Name,ProductCode,Family,Description,Precio__c,IsActive)
 desde la interfaz del usuario , oculté la visibilidad del campo "clase" que daba resultado "simple" en todos los productos por ser un dato irrelevante
 eliminé el componente "listas de precios" de tipo Listas relacionadas
 eliminé la ficha "Relacionados"
