@@ -4,6 +4,7 @@ desde la interfaz del usuario , oculté la visibilidad del campo "clase" que dab
 eliminé el componente "listas de precios" de tipo Listas relacionadas
 eliminé la ficha "Relacionados"
 active la nueva pagina de registro de productos para todas las orgs por ahora 
-eliminé el campo de tipo checbox "Active" (ahora lo reemplacé por "Cantidad disponible")
+desde modificar pagina,quite el campo estandar de tipo checbox "Active" (ahora creé y lo reemplacé por "Cantidad disponible")
 creé el campo "Talllas disponibles"
 creé la relacion MASTER - DETAIL  = "Familia de Productos" - "Cascos"
+borré todos los valores de los productos del campo estandar checkbox "Active" y los actualice por "false" para que queden deseleccionados 
