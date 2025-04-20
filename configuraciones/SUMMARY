@@ -1,1 +1,25 @@
+IMPORTANT CHANGES 
+
+ 1. subi 10 productos de cascos 
+
+ - CAMPOS DE IMPORTACION :
+
+   .Product Name
+   .Product Code
+   .Product Description
+   .Product Family
+
+ 2. CAMPOS DE DETAIL DE PRODUCTS:
+
+   - CANTIDAD DISPONIBLE 
+   - TALLAS DIPONIBLES 
+   - Precio
+
+  3. ACCIONES : 
+
+   - Product Family (picklist) > se activa tallas diponibles (multi picklist ) 
+
+  4. OBJECTIVE
+
+  - flow: 
 
