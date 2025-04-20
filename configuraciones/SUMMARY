@@ -1,5 +1,12 @@
 IMPORTANT CHANGES 
 
+OBJECTIVES: 
+FLOW 
+  > update stock for app sales 
+    > PRODUCT PAY 
+      >  Update Cantidad disponible sales app 
+
+
  1. subi 10 productos de cascos 
 
  - CAMPOS DE IMPORTACION :
@@ -19,7 +26,5 @@ IMPORTANT CHANGES
 
    - Product Family (picklist) > se activa tallas diponibles (multi picklist ) 
 
-  4. OBJECTIVE
 
-  - flow: 
 
