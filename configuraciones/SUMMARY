@@ -8,10 +8,8 @@ FLOW
 
 
  1. subi 10 productos de cascos 
-
- - CAMPOS DE IMPORTACION :
-
-   .Product Name
+    CAMPOS DE IMPORTACION :
+    .Product Name
    .Product Code
    .Product Description
    .Product Family
